@@ -109,13 +109,11 @@ h3{
 
 
 #positief ul li {
-    margin: 0 auto; 
-    max-width: 1000px; 
     list-style-type: circle;
+    margin: 0 auto; 
+    max-width: 1000px;
 
 }
-
-
 
 
 
@@ -126,12 +124,48 @@ h3 {
 
 
 
-
-
 .site{ 
     font-size: 20px; 
     margin: 0 auto; 
     max-width: 1000px; }
 
 
+#positief img  {
+    width: 25px;
+    height: 25px; 
+   padding-left: 70px;
+   margin: 0 auto; 
+   max-width: 1000px;
+   
+}
+#negatief img  {
+    width: 25px;
+    height: 25px; 
+   padding-left: 70px;
+   margin: 0 auto; 
+   max-width: 1000px;
+   
+}
 
+#negatief ul li {
+    list-style-type: circle;
+    margin: 0 auto; 
+    max-width: 1000px;
+
+}
+
+#site2 {
+    margin: 0 auto; 
+    max-width: 1000px; 
+    padding-top: 50px; 
+
+}
+
+#tekst1 {
+    padding-top: 440px;
+}
+
+#site3 {
+    margin: 0 auto; 
+    max-width: 1000px; 
+    padding-top: 50px; }
