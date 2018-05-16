@@ -18,6 +18,9 @@ img {
 /* Voeg jouw css hieraan toe */
 
 
+
+/* INTRODUCTIE------------------------------------*/
+
 .titel{
     background-color: #EEE;
     height: 130px; 
@@ -46,8 +49,9 @@ h6{
     max-width: 1000px; }
 }
 
-h3 {
-    font-size: 25px;
+h3{
+    font-size: 50px;
+  
 
 
 }
@@ -56,9 +60,44 @@ h3 {
     padding-top: 10px; 
     padding-bottom: 10px;
     background-color: #EEE;
-    height: 200px; 
+    height: 190px; 
     margin: 0 auto; 
     max-width: 1000px; 
-    text-align: center;}
+    text-align: center;
+    font-weight: 300; 
+    font-size: 12px;  
+    text-transform: uppercase; 
 
 }
+
+/* CONCURRENTIE------------------------------------*/
+
+li {list-style-type: none;}
+
+
+
+#fotos {
+    width: 1200px; 
+    margin-left: 64px
+
+}
+
+#fotos ul {
+    padding: 0; }
+
+#fotos ul li {
+        float: right; 
+        width:  30%;
+        margin-bottom: 15px; }
+
+#fotos img {
+    width: 280px; 
+    height: 170px; 
+    border-radius: 10px; 
+}
+
+#fotos img:hover {
+    transform: scale(1.1);
+    box-shadow: 0 5px 5px rgba(0, 0, 0, 0.3) ; }
+
+
