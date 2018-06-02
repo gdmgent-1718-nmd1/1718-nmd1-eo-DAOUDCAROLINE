@@ -141,7 +141,7 @@ h3 {
 #positief img  {
     width: 25px;
     height: 25px; 
-   padding-left: 100px;
+   padding-left: 200px;
    margin: 0 auto; 
    max-width: 1000px;
    
@@ -149,7 +149,7 @@ h3 {
 #negatief img  {
     width: 25px;
     height: 25px; 
-   padding-left: 100px;
+   padding-left: 200px;
    margin: 0 auto; 
    max-width: 1000px;
    
@@ -176,4 +176,4 @@ h3 {
 #site3 {
     margin: 0 auto; 
     max-width: 1000px; 
-    padding-top: 50px; }
+    padding-top: 70px; }
